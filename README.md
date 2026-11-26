@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Thomas 👋</h1>
 
 <p align="center">
-  <b>Software engineer from Aachen · M.Sc. Information Systems Engineering · trainer of apprentices for 10+ years</b><br>
+  <b>Software engineer from Aachen · M.Eng. Information Systems Engineering · trainer of apprentices for 10+ years</b><br>
   <i>Problems are solutions yet to be found.</i>
 </p>
 
